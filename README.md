@@ -8,7 +8,7 @@ $ git clone https://github.com/appuachu/Image_Data_Extract.git<br>
 $ cd Image_Data_Extract<br>
 $ chmod +x install.sh<br>
 $ bash install.sh<br>
-$ chmod +x imagedata.sh 
+$ chmod +x imagedata.sh<br>
 $ bash imagedata.sh 
 
 
