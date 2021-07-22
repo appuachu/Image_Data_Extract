@@ -14,5 +14,5 @@ $ bash imagedata.sh
 
 
 <h1>AVAILABLE ON</h1>
-$ kali linux
+$ kali linux<br>
 $ Ubuntu
